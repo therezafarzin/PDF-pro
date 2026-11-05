@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode / XcodeGen (the project is generated from project.yml)
+*.xcodeproj
+*.xcworkspace
+xcuserdata/
+DerivedData/
+build/
+dist/
+.build/
+.intstall-derived/
+.install-derived/
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs and local files
+*.log
+*.dmg
