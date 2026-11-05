@@ -1,4 +1,4 @@
-# PDF Study
+# PDF pro
 
 A native macOS app for studying PDF textbooks. Highlight and annotate, write
 bilingual text boxes (German + Persian, with correct RTL/LTR handling), build a
